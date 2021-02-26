@@ -1,0 +1,28 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "title": "React desde cero",
+            "image": "https: //edteam-media.s3.amazonaws.com/courses/medium/608331fa-c0c6-4f7c-9ad7-470903923179.jpg",
+            "price": 200
+        },
+        {
+            "id": 2,
+            "title": "Javascript desde cero",
+            "image": "https://edteam-media.s3.amazonaws.com/specialities/big/3e6a0de6-602b-439c-a90b-346f13c6760f.png",
+            "price": 300
+        },
+        {
+            "id": 2,
+            "title": "AWS desde cero",
+            "image": "https://edteam-media.s3.amazonaws.com/specialities/big/3e6a0de6-602b-439c-a90b-346f13c6760f.png",
+            "price": 300
+        },
+        {
+            "id": 2,
+            "title": "SVG desde cero",
+            "image": "https://edteam-media.s3.amazonaws.com/specialities/big/3e6a0de6-602b-439c-a90b-346f13c6760f.png",
+            "price": 300
+        }
+    ]
+}
