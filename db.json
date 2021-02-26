@@ -13,13 +13,13 @@
             "price": 300
         },
         {
-            "id": 2,
+            "id": 3,
             "title": "AWS desde cero",
             "image": "https://edteam-media.s3.amazonaws.com/specialities/big/3e6a0de6-602b-439c-a90b-346f13c6760f.png",
             "price": 300
         },
         {
-            "id": 2,
+            "id": 4,
             "title": "SVG desde cero",
             "image": "https://edteam-media.s3.amazonaws.com/specialities/big/3e6a0de6-602b-439c-a90b-346f13c6760f.png",
             "price": 300
